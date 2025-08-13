@@ -1,7 +1,7 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 13/08/2025  
-**Empresa:** Abstergo 
+**Empresa:** Abstergo  
 **Responsável:** Gabriela Fernanda
 
 ## Introdução
